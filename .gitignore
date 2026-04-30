@@ -1,0 +1,6 @@
+# Ignorar documentación interna de desarrollo
+docs/
+
+# Ignorar binarios de C++
+*.exe
+*.out
