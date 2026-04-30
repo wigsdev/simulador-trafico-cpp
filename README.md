@@ -31,8 +31,8 @@ Requisito previo: Tener instalado el compilador `g++` (MinGW en Windows).
 
 **1. Clonar el repositorio**
 ```bash
-git clone https://github.com/wigsdev/nomada_bootcamp.git
-cd nomada_bootcamp/project_2
+git clone https://github.com/wigsdev/simulador-trafico-cpp.git
+cd nomada_bootcamp/simulador-trafico-cpp
 ```
 
 **2. Compilación del entorno**
